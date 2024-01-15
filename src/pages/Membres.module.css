@@ -1,0 +1,248 @@
+.informatique {
+  position: absolute;
+  top: 25px;
+  left: -7px;
+  display: inline-block;
+  width: 414px;
+  height: 69px;
+}
+.informatiqueWrapper {
+  position: absolute;
+  top: 693px;
+  left: 162px;
+  border-radius: var(--br-base);
+  background-color: var(--color-mediumpurple-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 400px;
+  height: 120px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.math {
+  position: absolute;
+  top: 25px;
+  left: 27px;
+  display: inline-block;
+  width: 346px;
+  height: 69px;
+}
+.anglaisWrapper,
+.mathWrapper,
+.physiqueWrapper,
+.smerWrapper,
+.tmwWrapper {
+  position: absolute;
+  top: 910px;
+  left: 162px;
+  border-radius: var(--br-base);
+  background-color: var(--color-mediumpurple-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 400px;
+  height: 120px;
+  overflow: hidden;
+}
+.anglaisWrapper,
+.physiqueWrapper,
+.smerWrapper,
+.tmwWrapper {
+  top: 1144px;
+}
+.physiqueWrapper,
+.smerWrapper,
+.tmwWrapper {
+  top: 1391px;
+}
+.smerWrapper,
+.tmwWrapper {
+  top: 693px;
+  left: 776px;
+}
+.smerWrapper {
+  top: 910px;
+}
+.svt {
+  position: absolute;
+  top: 27px;
+  left: 27px;
+  display: inline-block;
+  width: 346px;
+  height: 66px;
+}
+.franaisWrapper,
+.svtWrapper {
+  position: absolute;
+  top: 1144px;
+  left: 776px;
+  border-radius: var(--br-base);
+  background-color: var(--color-mediumpurple-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 400px;
+  height: 120px;
+  overflow: hidden;
+}
+.franaisWrapper {
+  top: 1391px;
+}
+.ecoleNormaleSuperiere {
+  position: absolute;
+  top: 334px;
+  left: 229px;
+  font-size: 60px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 900px;
+  height: 162px;
+}
+.choisissezLeDpartement {
+  margin: 0;
+}
+.choisissezLeDpartementContainer {
+  position: absolute;
+  top: 496px;
+  left: 287px;
+  font-size: 35px;
+  font-weight: 300;
+  color: var(--color-black);
+  display: inline-block;
+  width: 821px;
+  height: 111px;
+}
+.item1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.item,
+.search {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  height: 28px;
+}
+.item {
+  top: 29px;
+  left: 487px;
+  width: 95px;
+  cursor: pointer;
+}
+.search {
+  top: 28px;
+  left: 691px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 135px;
+}
+.homeFillIcon {
+  position: absolute;
+  top: 31px;
+  left: 487px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.about {
+  position: absolute;
+  top: 29px;
+  left: 549px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 139px;
+  height: 36px;
+  cursor: pointer;
+}
+.alumniIcon,
+.um5Icon {
+  position: absolute;
+  top: 0;
+  left: -7px;
+  width: 152px;
+  height: 134px;
+  object-fit: cover;
+}
+.alumniIcon {
+  top: -9px;
+  left: 145px;
+  width: 148px;
+  height: 133px;
+}
+.instagramIcon,
+.twitterIcon {
+  position: absolute;
+  top: 30px;
+  left: 802px;
+  width: 50px;
+  height: 50px;
+}
+.twitterIcon {
+  left: 672px;
+}
+.facebookIcon,
+.linkedinIcon {
+  position: absolute;
+  height: 31.26%;
+  width: 3.47%;
+  top: 18.87%;
+  right: 39.51%;
+  bottom: 49.87%;
+  left: 57.02%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.linkedinIcon {
+  right: 51.59%;
+  left: 44.93%;
+}
+.contacterNous {
+  position: absolute;
+  top: 90px;
+  left: 517px;
+  display: inline-block;
+  width: 310px;
+  height: 31px;
+}
+.messageFillIcon,
+.sendFillIcon {
+  position: absolute;
+  top: 99px;
+  left: 768px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.sendFillIcon {
+  top: 90px;
+  left: 802px;
+}
+.instagramParent {
+  position: absolute;
+  top: 1781px;
+  left: 0;
+  background-color: var(--color-mediumpurple-100);
+  width: 1275px;
+  height: 159px;
+  overflow: hidden;
+  font-size: var(--font-size-xl);
+}
+.membres {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1940px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

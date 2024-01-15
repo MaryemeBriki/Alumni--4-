@@ -1,0 +1,238 @@
+.signUpChild,
+.signUpInner,
+.signUpItem {
+  background-color: var(--color-mediumpurple-100);
+  position: absolute;
+}
+.signUpChild {
+  top: 203px;
+  left: 463px;
+  border-radius: 19px;
+  width: 465px;
+  height: 588px;
+}
+.signUpInner,
+.signUpItem {
+  border: 1px solid var(--color-whitesmoke);
+  outline: 0;
+  top: 474px;
+  left: 528px;
+  border-radius: var(--br-31xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 327px;
+  height: 47px;
+}
+.signUpInner {
+  border: 1px solid var(--color-ghostwhite);
+  top: 583px;
+}
+.motDePasse {
+  position: absolute;
+  top: 537px;
+  left: 537px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-ghostwhite);
+  text-align: left;
+}
+.rectangleInput {
+  border: 1px solid var(--color-ghostwhite);
+  outline: 0;
+  background-color: var(--color-mediumpurple-100);
+  position: absolute;
+  top: 375px;
+  left: 528px;
+  border-radius: var(--br-31xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 327px;
+  height: 47px;
+}
+.userFill {
+  position: absolute;
+  top: 20px;
+  left: 26px;
+  width: 24px;
+  height: 24px;
+}
+.adresseEMail,
+.nomComplet {
+  position: absolute;
+  top: 437px;
+  left: 533px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-ghostwhite);
+  text-align: left;
+  display: inline-block;
+  width: 310px;
+  height: 37px;
+}
+.nomComplet {
+  top: 338px;
+  left: 537px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 203px;
+  left: 600px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke);
+  width: 177px;
+  height: 94px;
+}
+.signUp1,
+.signUp2 {
+  position: absolute;
+  display: inline-block;
+}
+.signUp1 {
+  top: 226px;
+  left: 600px;
+  font-size: var(--font-size-11xl);
+  width: 186px;
+  height: 71px;
+}
+.signUp2 {
+  top: 24px;
+  left: -39px;
+  width: 283px;
+  height: 34px;
+}
+.signUpWrapper {
+  position: absolute;
+  top: 671px;
+  left: 593px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  width: 205px;
+  height: 81px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.signUpChild1 {
+  position: absolute;
+  top: 1020px;
+  left: 0;
+  background-color: var(--color-mediumpurple-100);
+  width: 1275px;
+  height: 114px;
+}
+.instagramIcon,
+.twitterIcon {
+  position: absolute;
+  top: 1025px;
+  left: 520px;
+  width: 50px;
+  height: 50px;
+}
+.instagramIcon {
+  left: 692px;
+}
+.facebookIcon,
+.linkedinIcon {
+  position: absolute;
+  height: 4.38%;
+  width: 3.1%;
+  top: 90.39%;
+  right: 52.99%;
+  bottom: 5.23%;
+  left: 43.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.linkedinIcon {
+  right: 47.81%;
+  left: 49.09%;
+}
+.contacterNous {
+  position: absolute;
+  top: 1088px;
+  left: 420px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 310px;
+  height: 31px;
+}
+.messageFillIcon,
+.sendFillIcon {
+  position: absolute;
+  top: 1095px;
+  left: 636px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.sendFillIcon {
+  top: 1088px;
+  left: 677px;
+}
+.item1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.item,
+.search {
+  position: absolute;
+  height: 28px;
+}
+.item {
+  top: 35px;
+  left: 389px;
+  width: 95px;
+  cursor: pointer;
+}
+.search {
+  top: 34px;
+  left: 613px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 135px;
+}
+.homeFillIcon {
+  position: absolute;
+  top: 37px;
+  left: 389px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.about {
+  position: absolute;
+  top: 35px;
+  left: 451px;
+  display: inline-block;
+  width: 139px;
+  height: 36px;
+  cursor: pointer;
+}
+.alumniIcon,
+.um5Icon {
+  position: absolute;
+  top: 0;
+  left: -7px;
+  width: 152px;
+  height: 134px;
+  object-fit: cover;
+}
+.alumniIcon {
+  top: -13px;
+  left: 158px;
+  width: 148px;
+  height: 133px;
+}
+.signUp {
+  background-color: var(--color-ghostwhite);
+  width: 1275px;
+  height: 1134px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,433 @@
+.formulaireDinscription {
+  position: absolute;
+  top: 245px;
+  left: 469px;
+  font-size: 48px;
+  font-family: var(--font-radley);
+  display: inline-block;
+  width: 536px;
+  height: 74px;
+}
+.inscriptionChild {
+  position: absolute;
+  top: 360px;
+  left: 67px;
+  border-radius: 50%;
+  width: 201px;
+  height: 183px;
+  object-fit: cover;
+}
+.importImage {
+  position: absolute;
+  top: 6px;
+  left: 12px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 206px;
+  height: 35px;
+}
+.importImageWrapper {
+  border: 1px solid var(--color-mediumpurple-100);
+  padding: 0;
+  background-color: var(--color-mediumpurple-300);
+  position: absolute;
+  top: 570px;
+  left: 44px;
+  border-radius: var(--br-base);
+  box-sizing: border-box;
+  width: 246px;
+  height: 47px;
+  overflow: hidden;
+}
+.addRoundFillIcon {
+  position: absolute;
+  top: 571px;
+  left: 231px;
+  width: 49px;
+  height: 45px;
+  object-fit: cover;
+}
+.span {
+  color: var(--color-red);
+}
+.nom,
+.profilsLinkedin {
+  position: absolute;
+  top: 452px;
+  left: 386px;
+  display: inline-block;
+  width: 210px;
+  height: 45px;
+}
+.profilsLinkedin {
+  top: 1486px;
+  width: 248px;
+}
+.nomDeLentreprise {
+  margin: 0;
+}
+.anneDinscription,
+.nomDeLentrepriseContainer,
+.spcialisation,
+.titreDuPoste {
+  position: absolute;
+  top: 1392px;
+  left: 386px;
+  display: inline-block;
+  width: 478px;
+  height: 45px;
+}
+.anneDinscription,
+.spcialisation,
+.titreDuPoste {
+  top: 1298px;
+  width: 329px;
+}
+.anneDinscription,
+.spcialisation {
+  top: 1204px;
+  width: 243px;
+}
+.anneDinscription {
+  top: 1110px;
+  width: 307px;
+}
+.adresseEMail,
+.anneDeDiplmeContainer,
+.dateNaissance,
+.genre,
+.prnom,
+.ville {
+  position: absolute;
+  top: 1016px;
+  left: 386px;
+  display: inline-block;
+  width: 308px;
+  height: 45px;
+}
+.adresseEMail,
+.dateNaissance,
+.genre,
+.prnom,
+.ville {
+  top: 922px;
+  width: 266px;
+}
+.dateNaissance,
+.genre,
+.prnom,
+.ville {
+  top: 828px;
+  width: 210px;
+}
+.dateNaissance,
+.genre,
+.prnom {
+  top: 734px;
+  width: 248px;
+}
+.genre,
+.prnom {
+  top: 640px;
+  width: 210px;
+}
+.prnom {
+  top: 546px;
+}
+.frameInput,
+.inscriptionChild1,
+.inscriptionChild2,
+.inscriptionChild3,
+.inscriptionChild4,
+.inscriptionChild5,
+.inscriptionChild6,
+.inscriptionChild7,
+.inscriptionChild8,
+.inscriptionInner,
+.inscriptionItem {
+  border: 1px solid var(--color-mediumpurple-100);
+  outline: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 438px;
+  left: 864px;
+  border-radius: var(--br-xs);
+  box-sizing: border-box;
+  width: 316px;
+  height: 45px;
+  overflow: hidden;
+}
+.frameInput,
+.inscriptionChild1,
+.inscriptionChild2,
+.inscriptionChild3,
+.inscriptionChild4,
+.inscriptionChild5,
+.inscriptionChild6,
+.inscriptionChild7,
+.inscriptionChild8,
+.inscriptionInner {
+  top: 532px;
+}
+.frameInput,
+.inscriptionChild1,
+.inscriptionChild2,
+.inscriptionChild3,
+.inscriptionChild4,
+.inscriptionChild5,
+.inscriptionChild6,
+.inscriptionChild7,
+.inscriptionChild8 {
+  top: 1016px;
+}
+.inscriptionChild1,
+.inscriptionChild2,
+.inscriptionChild3,
+.inscriptionChild4,
+.inscriptionChild5,
+.inscriptionChild6,
+.inscriptionChild7,
+.inscriptionChild8 {
+  top: 1486px;
+}
+.inscriptionChild2,
+.inscriptionChild3,
+.inscriptionChild4,
+.inscriptionChild5,
+.inscriptionChild6,
+.inscriptionChild7,
+.inscriptionChild8 {
+  top: 1298px;
+}
+.inscriptionChild3,
+.inscriptionChild4,
+.inscriptionChild5,
+.inscriptionChild6,
+.inscriptionChild7,
+.inscriptionChild8 {
+  top: 1392px;
+}
+.inscriptionChild4,
+.inscriptionChild5,
+.inscriptionChild6,
+.inscriptionChild7,
+.inscriptionChild8 {
+  top: 1204px;
+}
+.inscriptionChild5,
+.inscriptionChild6,
+.inscriptionChild7,
+.inscriptionChild8 {
+  top: 1110px;
+}
+.inscriptionChild6,
+.inscriptionChild7,
+.inscriptionChild8 {
+  top: 916px;
+}
+.inscriptionChild7,
+.inscriptionChild8 {
+  top: 814px;
+}
+.inscriptionChild8 {
+  top: 720px;
+}
+.femelle,
+.male {
+  position: absolute;
+  top: 640px;
+  left: 905px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 164px;
+  height: 40px;
+}
+.male {
+  left: 1107px;
+}
+.ellipseInput,
+.inscriptionChild9 {
+  margin: 0;
+  position: absolute;
+  top: 640px;
+  left: 1065px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-mediumpurple-100);
+  box-sizing: border-box;
+  width: 35px;
+  height: 37px;
+}
+.inscriptionChild9 {
+  left: 864px;
+}
+.annuler {
+  position: absolute;
+  top: 12px;
+  left: 42px;
+  display: inline-block;
+  width: 147px;
+  height: 30px;
+}
+.annulerWrapper,
+.sinscrireWrapper {
+  position: absolute;
+  top: 1622px;
+  left: 678px;
+  border-radius: var(--br-base);
+  background-color: var(--color-mediumpurple-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 231px;
+  height: 53px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-white);
+}
+.sinscrireWrapper {
+  left: 949px;
+}
+.item1,
+.userFill {
+  position: absolute;
+  top: 27px;
+  left: 33px;
+  width: 24px;
+  height: 24px;
+}
+.item1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.item,
+.search {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  height: 28px;
+}
+.item {
+  top: 42px;
+  left: 396px;
+  width: 95px;
+  cursor: pointer;
+  text-align: center;
+}
+.search {
+  top: 41px;
+  left: 620px;
+  display: flex;
+  align-items: center;
+  width: 135px;
+}
+.homeFillIcon {
+  position: absolute;
+  top: 44px;
+  left: 396px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.about {
+  position: absolute;
+  top: 42px;
+  left: 458px;
+  font-size: var(--font-size-xl);
+  text-align: center;
+  display: inline-block;
+  width: 139px;
+  height: 36px;
+  cursor: pointer;
+}
+.alumniIcon,
+.um5Icon {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  width: 152px;
+  height: 134px;
+  object-fit: cover;
+}
+.alumniIcon {
+  top: -6px;
+  left: 165px;
+  width: 148px;
+  height: 133px;
+}
+.instagramIcon,
+.twitterIcon {
+  position: absolute;
+  top: 30px;
+  left: 746px;
+  width: 50px;
+  height: 50px;
+}
+.twitterIcon {
+  left: 613px;
+}
+.facebookIcon,
+.linkedinIcon {
+  position: absolute;
+  height: 31.26%;
+  width: 3.47%;
+  top: 18.87%;
+  right: 43.82%;
+  bottom: 49.87%;
+  left: 52.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.linkedinIcon {
+  right: 55.74%;
+  left: 40.78%;
+}
+.contacterNous {
+  position: absolute;
+  top: 95px;
+  left: 458px;
+  display: inline-block;
+  width: 310px;
+  height: 31px;
+}
+.messageFillIcon,
+.sendFillIcon {
+  position: absolute;
+  top: 99px;
+  left: 716px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.sendFillIcon {
+  top: 90px;
+  left: 747px;
+}
+.instagramParent {
+  position: absolute;
+  top: 1781px;
+  left: 0;
+  background-color: var(--color-mediumpurple-100);
+  width: 1275px;
+  height: 159px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.inscription {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1940px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

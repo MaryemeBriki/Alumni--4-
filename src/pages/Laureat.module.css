@@ -1,0 +1,221 @@
+.frameChild {
+  position: absolute;
+  top: 36px;
+  left: 37px;
+  border-radius: 50%;
+  width: 147px;
+  height: 123px;
+  object-fit: cover;
+}
+.cleInfo,
+.maryemeBriki {
+  position: absolute;
+  top: 47px;
+  left: 200px;
+  display: inline-block;
+  width: 198px;
+  height: 33px;
+}
+.cleInfo {
+  top: 80px;
+  left: 223px;
+  width: 151px;
+  height: 22px;
+}
+.voirLesDtails {
+  margin: 0;
+}
+.voirLesDtailsContainer {
+  position: absolute;
+  top: 126px;
+  left: 200px;
+  color: var(--color-mediumpurple-100);
+  display: inline-block;
+  width: 198px;
+  height: 33px;
+  cursor: pointer;
+}
+.ellipseParent {
+  position: absolute;
+  top: 296px;
+  left: 136px;
+  background-color: var(--color-lightsteelblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 421px;
+  height: 195px;
+  overflow: hidden;
+  font-size: var(--font-size-7xl);
+}
+.frameItem {
+  position: absolute;
+  top: 36px;
+  left: 42px;
+  border-radius: 50%;
+  width: 147px;
+  height: 123px;
+  object-fit: cover;
+}
+.chaimaeBenaoui,
+.cleInfo1 {
+  position: absolute;
+  top: 54px;
+  left: 185px;
+  display: inline-block;
+  width: 221px;
+  height: 33px;
+}
+.cleInfo1 {
+  top: 87px;
+  left: 223px;
+  width: 151px;
+  height: 22px;
+}
+.ellipseGroup {
+  position: absolute;
+  top: 555px;
+  left: 136px;
+  background-color: var(--color-lightsteelblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 421px;
+  height: 195px;
+  overflow: hidden;
+  font-size: var(--font-size-7xl);
+}
+.laureatChild {
+  position: absolute;
+  top: 904px;
+  left: 0;
+  background-color: var(--color-mediumpurple-100);
+  width: 1275px;
+  height: 120px;
+}
+.instagramIcon,
+.twitterIcon {
+  position: absolute;
+  top: 923px;
+  left: 753px;
+  width: 50px;
+  height: 50px;
+}
+.twitterIcon {
+  left: 558px;
+}
+.facebookIcon,
+.linkedinIcon {
+  position: absolute;
+  height: 4.85%;
+  width: 3.47%;
+  top: 90.14%;
+  right: 48.84%;
+  bottom: 5.01%;
+  left: 47.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.linkedinIcon {
+  right: 43.04%;
+  left: 53.49%;
+}
+.contacterNous {
+  position: absolute;
+  top: 983px;
+  left: 470px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 310px;
+  height: 31px;
+}
+.messageFillIcon,
+.sendFillIcon {
+  position: absolute;
+  top: 993px;
+  left: 704px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.sendFillIcon {
+  top: 981px;
+  left: 745px;
+}
+.cleInformatique,
+.item1 {
+  position: absolute;
+  display: inline-block;
+}
+.cleInformatique {
+  top: 206px;
+  left: 389px;
+  font-size: var(--font-size-7xl);
+  width: 525px;
+  height: 70px;
+}
+.item1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.item,
+.search {
+  position: absolute;
+  height: 28px;
+}
+.item {
+  top: 29px;
+  left: 487px;
+  width: 95px;
+  cursor: pointer;
+}
+.search {
+  top: 28px;
+  left: 691px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 135px;
+}
+.homeFillIcon {
+  position: absolute;
+  top: 31px;
+  left: 487px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.about {
+  position: absolute;
+  top: 29px;
+  left: 549px;
+  display: inline-block;
+  width: 139px;
+  height: 36px;
+  cursor: pointer;
+}
+.alumniIcon,
+.um5Icon {
+  position: absolute;
+  top: 0;
+  left: -7px;
+  width: 152px;
+  height: 134px;
+  object-fit: cover;
+}
+.alumniIcon {
+  top: -9px;
+  left: 145px;
+  width: 148px;
+  height: 133px;
+}
+.laureat {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

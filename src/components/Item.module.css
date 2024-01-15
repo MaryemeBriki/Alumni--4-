@@ -1,0 +1,20 @@
+.item,
+.item1 {
+  position: absolute;
+  left: 0;
+}
+.item1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  display: inline-block;
+}
+.item {
+  top: 9px;
+  width: 108px;
+  height: 28px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

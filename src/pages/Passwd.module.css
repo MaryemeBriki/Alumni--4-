@@ -1,0 +1,199 @@
+.changerVotreMot {
+  position: absolute;
+  top: 225px;
+  left: 375px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 708px;
+  height: 76px;
+}
+.passwdChild,
+.passwdInner,
+.passwdItem {
+  border: 1px solid var(--color-mediumpurple-100);
+  outline: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 402px;
+  left: 184px;
+  border-radius: var(--br-xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 327px;
+  height: 47px;
+  overflow: hidden;
+}
+.passwdInner,
+.passwdItem {
+  top: 498px;
+}
+.passwdInner {
+  top: 600px;
+}
+.confirmer,
+.confirmerVotreMot,
+.email,
+.nouveauMotDe {
+  position: absolute;
+  top: 366px;
+  left: 145px;
+  display: inline-block;
+  width: 186px;
+  height: 36px;
+}
+.confirmer,
+.confirmerVotreMot,
+.nouveauMotDe {
+  top: 465px;
+  left: 139px;
+  width: 396px;
+}
+.confirmer,
+.confirmerVotreMot {
+  top: 564px;
+  left: 130px;
+  width: 491px;
+}
+.confirmer {
+  top: 19px;
+  left: 26px;
+  width: 177px;
+  height: 25px;
+}
+.confirmerWrapper {
+  position: absolute;
+  top: 671px;
+  left: 184px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-mediumpurple-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 200px;
+  height: 63px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  color: var(--color-white);
+}
+.oublie1Icon {
+  position: absolute;
+  top: 335px;
+  left: 612px;
+  width: 592px;
+  height: 373px;
+  object-fit: cover;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 904px;
+  left: 0;
+  background-color: var(--color-mediumpurple-100);
+  width: 1275px;
+  height: 120px;
+}
+.contacterNous,
+.instagramIcon,
+.twitterIcon {
+  position: absolute;
+  top: 923px;
+  left: 783px;
+  width: 50px;
+  height: 50px;
+}
+.contacterNous,
+.twitterIcon {
+  left: 562px;
+}
+.contacterNous {
+  top: 986px;
+  left: 527px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  display: inline-block;
+  width: 310px;
+  height: 31px;
+}
+.messageFillIcon,
+.sendFillIcon {
+  position: absolute;
+  top: 993px;
+  left: 775px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.sendFillIcon {
+  top: 983px;
+  left: 809px;
+}
+.item1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.item,
+.search {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  height: 28px;
+}
+.item {
+  top: 29px;
+  left: 487px;
+  width: 95px;
+  cursor: pointer;
+}
+.search {
+  top: 28px;
+  left: 691px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 135px;
+}
+.homeFillIcon {
+  position: absolute;
+  top: 31px;
+  left: 487px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.about {
+  position: absolute;
+  top: 29px;
+  left: 549px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 139px;
+  height: 36px;
+  cursor: pointer;
+}
+.alumniIcon,
+.um5Icon {
+  position: absolute;
+  top: 0;
+  left: -7px;
+  width: 152px;
+  height: 134px;
+  object-fit: cover;
+}
+.alumniIcon {
+  top: -9px;
+  left: 145px;
+  width: 148px;
+  height: 133px;
+}
+.passwd {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,203 @@
+.bannierelivres1Icon {
+  position: absolute;
+  top: 277px;
+  left: 0;
+  width: 1275px;
+  height: 719px;
+  object-fit: cover;
+}
+.a {
+  color: var(--color-black);
+}
+.alumni,
+.inscription {
+  position: absolute;
+  display: inline-block;
+}
+.alumni {
+  top: 335px;
+  left: 270px;
+  font-size: 96px;
+  font-weight: 900;
+  width: 657px;
+  height: 83px;
+  color: var(--color-mediumpurple-100);
+}
+.inscription {
+  top: 8px;
+  left: 4px;
+  font-weight: 600;
+  width: 222px;
+  height: 42px;
+}
+.inscriptionWrapper {
+  position: absolute;
+  top: 617px;
+  left: 336px;
+  border-radius: var(--br-base);
+  background-color: var(--color-mediumpurple-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 231px;
+  height: 58px;
+  overflow: hidden;
+  cursor: pointer;
+  font-size: var(--font-size-17xl);
+}
+.removal1Icon {
+  position: absolute;
+  top: 162px;
+  left: 503px;
+  width: 251px;
+  height: 193px;
+  object-fit: cover;
+}
+.homeChild {
+  position: absolute;
+  top: 904px;
+  left: 0;
+  background-color: var(--color-mediumpurple-100);
+  width: 1275px;
+  height: 114px;
+}
+.instagramIcon,
+.membres,
+.twitterIcon {
+  position: absolute;
+  top: 909px;
+  left: 572px;
+  width: 50px;
+  height: 50px;
+}
+.instagramIcon,
+.membres {
+  left: 769px;
+}
+.membres {
+  top: -2px;
+  left: 19px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 192px;
+  height: 61px;
+}
+.membresWrapper {
+  position: absolute;
+  top: 617px;
+  left: 716px;
+  border-radius: var(--br-base);
+  background-color: var(--color-mediumpurple-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 231px;
+  height: 58px;
+  overflow: hidden;
+  cursor: pointer;
+  font-size: var(--font-size-17xl);
+}
+.contacterNous {
+  position: absolute;
+  top: 972px;
+  left: 459px;
+  display: inline-block;
+  width: 310px;
+  height: 31px;
+}
+.messageFillIcon {
+  top: 979px;
+  left: 713px;
+  object-fit: cover;
+}
+.item1,
+.messageFillIcon,
+.sendFillIcon,
+.userFill {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+}
+.sendFillIcon {
+  top: 972px;
+  left: 754px;
+  object-fit: cover;
+}
+.item1,
+.userFill {
+  top: 20px;
+  left: 26px;
+}
+.item1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.item,
+.search {
+  position: absolute;
+  color: var(--color-black);
+  height: 28px;
+}
+.item {
+  top: 35px;
+  left: 389px;
+  width: 95px;
+  cursor: pointer;
+}
+.search {
+  top: 34px;
+  left: 613px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 135px;
+}
+.homeFillIcon {
+  position: absolute;
+  top: 37px;
+  left: 389px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.about {
+  position: absolute;
+  top: 35px;
+  left: 451px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 139px;
+  height: 36px;
+  cursor: pointer;
+}
+.alumniIcon,
+.um5Icon {
+  position: absolute;
+  top: 0;
+  left: -7px;
+  width: 152px;
+  height: 134px;
+  object-fit: cover;
+}
+.alumniIcon {
+  top: -13px;
+  left: 158px;
+  width: 148px;
+  height: 133px;
+}
+.home {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1018px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

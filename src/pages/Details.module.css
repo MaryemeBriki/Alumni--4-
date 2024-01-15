@@ -1,0 +1,219 @@
+.detailsChild {
+  position: absolute;
+  top: 303px;
+  left: 130px;
+  border-radius: 50%;
+  width: 147px;
+  height: 123px;
+  object-fit: cover;
+}
+.nomPrnom {
+  position: absolute;
+  top: 444px;
+  left: 9px;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 372px;
+  height: 30px;
+}
+.anneDeDiplome,
+.anneDinscription,
+.spcialisation {
+  position: absolute;
+  top: 45px;
+  left: 73px;
+  font-weight: 600;
+  display: inline-block;
+  width: 190px;
+  height: 62px;
+}
+.anneDeDiplome,
+.anneDinscription {
+  top: 105px;
+  left: 62px;
+  width: 279px;
+}
+.anneDeDiplome {
+  top: 169px;
+  left: 54px;
+}
+.adresseEMail {
+  top: 294px;
+  left: 35px;
+  width: 279px;
+}
+.adresseEMail,
+.nomDeLentreprise,
+.profilLinkedln,
+.titreDePoste,
+.ville {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+  height: 62px;
+}
+.ville {
+  top: 230px;
+  left: 54px;
+  width: 117px;
+}
+.nomDeLentreprise,
+.profilLinkedln,
+.titreDePoste {
+  left: 73px;
+}
+.titreDePoste {
+  top: 355px;
+  white-space: pre-wrap;
+  width: 307px;
+}
+.nomDeLentreprise,
+.profilLinkedln {
+  top: 479px;
+  width: 203px;
+}
+.nomDeLentreprise {
+  top: 419px;
+  width: 380px;
+}
+.spcialisationParent {
+  position: absolute;
+  top: 233px;
+  left: 401px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-mediumpurple-300);
+  width: 806px;
+  height: 557px;
+  overflow: hidden;
+  font-size: var(--font-size-7xl);
+  color: var(--color-white);
+}
+.detailsItem {
+  position: absolute;
+  top: 899px;
+  left: 0;
+  background-color: var(--color-mediumpurple-100);
+  width: 1275px;
+  height: 120px;
+}
+.instagramIcon,
+.twitterIcon {
+  position: absolute;
+  top: 923px;
+  left: 762px;
+  width: 50px;
+  height: 50px;
+}
+.twitterIcon {
+  left: 558px;
+}
+.facebookIcon,
+.linkedinIcon {
+  position: absolute;
+  height: 4.85%;
+  width: 3.47%;
+  top: 90.14%;
+  right: 43.04%;
+  bottom: 5.01%;
+  left: 53.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.linkedinIcon {
+  right: 48.84%;
+  left: 47.69%;
+}
+.contacterNous {
+  position: absolute;
+  top: 986px;
+  left: 527px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 310px;
+  height: 31px;
+}
+.messageFillIcon,
+.sendFillIcon {
+  position: absolute;
+  top: 993px;
+  left: 775px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.sendFillIcon {
+  top: 983px;
+  left: 809px;
+}
+.item1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.item,
+.search {
+  position: absolute;
+  height: 28px;
+}
+.item {
+  top: 29px;
+  left: 487px;
+  width: 95px;
+  cursor: pointer;
+}
+.search {
+  top: 28px;
+  left: 691px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 135px;
+}
+.homeFillIcon {
+  position: absolute;
+  top: 31px;
+  left: 487px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.about {
+  position: absolute;
+  top: 29px;
+  left: 549px;
+  display: inline-block;
+  width: 139px;
+  height: 36px;
+  cursor: pointer;
+}
+.alumniIcon,
+.um5Icon {
+  position: absolute;
+  top: 0;
+  left: -7px;
+  width: 152px;
+  height: 134px;
+  object-fit: cover;
+}
+.alumniIcon {
+  top: -9px;
+  left: 145px;
+  width: 148px;
+  height: 133px;
+}
+.details {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

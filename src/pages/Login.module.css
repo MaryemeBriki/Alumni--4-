@@ -1,0 +1,263 @@
+.loginChild {
+  position: absolute;
+  top: 212px;
+  left: 463px;
+  border-radius: 24px;
+  background-color: var(--color-mediumpurple-100);
+  width: 465px;
+  height: 588px;
+}
+.motDePasse {
+  position: absolute;
+  top: 465px;
+  left: 535px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-ghostwhite);
+  display: inline-block;
+  width: 310px;
+  height: 37px;
+}
+.loginItem {
+  position: absolute;
+  top: 216px;
+  left: 598px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke);
+  width: 167px;
+  height: 104px;
+}
+.motDePasse1,
+.vousNavezPas {
+  text-decoration: underline;
+  font-weight: 300;
+  display: inline-block;
+  height: 40px;
+}
+.motDePasse1 {
+  position: absolute;
+  top: 575px;
+  left: 539px;
+  color: var(--color-white);
+  width: 231px;
+  cursor: pointer;
+}
+.vousNavezPas {
+  top: 743px;
+  left: 503px;
+  width: 280px;
+}
+.login1,
+.signUp,
+.vousNavezPas {
+  position: absolute;
+}
+.signUp {
+  top: 743px;
+  left: 742px;
+  text-decoration: underline;
+  font-weight: 300;
+  color: var(--color-white);
+  display: inline-block;
+  width: 84px;
+  height: 29px;
+  cursor: pointer;
+}
+.login1 {
+  top: 21px;
+  left: -43px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 283px;
+  height: 34px;
+}
+.loginInner,
+.loginWrapper {
+  position: absolute;
+  border-radius: var(--br-31xl);
+  overflow: hidden;
+}
+.loginWrapper {
+  top: 641px;
+  left: 583px;
+  background-color: var(--color-ghostwhite);
+  width: 196px;
+  height: 76px;
+  cursor: pointer;
+  text-align: center;
+}
+.loginInner {
+  border: 1px solid var(--color-ghostwhite);
+  outline: 0;
+  background-color: transparent;
+  top: 399px;
+  left: 532px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 327px;
+  height: 47px;
+}
+.email,
+.login2 {
+  position: absolute;
+  display: inline-block;
+}
+.login2 {
+  top: 239px;
+  left: 615px;
+  font-size: var(--font-size-11xl);
+  text-align: center;
+  width: 132px;
+  height: 71px;
+}
+.email {
+  top: 346px;
+  left: 535px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  width: 328px;
+  height: 27px;
+}
+.frameInput {
+  border: 1px solid var(--color-ghostwhite);
+  outline: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 502px;
+  left: 532px;
+  border-radius: var(--br-31xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 327px;
+  height: 47px;
+  overflow: hidden;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 1014px;
+  left: 0;
+  background-color: var(--color-mediumpurple-100);
+  width: 1430px;
+  height: 120px;
+}
+.instagramIcon,
+.twitterIcon {
+  position: absolute;
+  top: 1033px;
+  left: 750px;
+  width: 50px;
+  height: 50px;
+}
+.twitterIcon {
+  left: 503px;
+}
+.facebookIcon,
+.linkedinIcon {
+  position: absolute;
+  height: 4.38%;
+  width: 3.47%;
+  top: 91.09%;
+  right: 44.44%;
+  bottom: 4.52%;
+  left: 52.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.linkedinIcon {
+  right: 51.11%;
+  left: 45.42%;
+}
+.contacterNous {
+  position: absolute;
+  top: 1096px;
+  left: 472px;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 310px;
+  height: 31px;
+}
+.messageFillIcon,
+.sendFillIcon {
+  position: absolute;
+  top: 1103px;
+  left: 693px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.sendFillIcon {
+  top: 1093px;
+  left: 727px;
+}
+.item1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.item,
+.search {
+  position: absolute;
+  height: 28px;
+}
+.item {
+  top: 29px;
+  left: 494px;
+  width: 95px;
+  cursor: pointer;
+  text-align: center;
+}
+.search {
+  top: 28px;
+  left: 691px;
+  display: flex;
+  align-items: center;
+  width: 135px;
+}
+.homeFillIcon {
+  position: absolute;
+  top: 31px;
+  left: 494px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.about {
+  position: absolute;
+  top: 29px;
+  left: 542px;
+  text-align: center;
+  display: inline-block;
+  width: 139px;
+  height: 36px;
+  cursor: pointer;
+}
+.alumniIcon,
+.um5Icon {
+  position: absolute;
+  top: 0;
+  left: -7px;
+  width: 152px;
+  height: 134px;
+  object-fit: cover;
+}
+.alumniIcon {
+  left: 149px;
+  width: 148px;
+  height: 133px;
+}
+.login {
+  position: relative;
+  background-color: var(--color-ghostwhite);
+  width: 100%;
+  height: 1134px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
